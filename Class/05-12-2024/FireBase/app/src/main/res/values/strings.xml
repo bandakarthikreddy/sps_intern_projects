@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fire Base</string>
+    <string name="id">ID</string>
+    <string name="name">Enter Your Name</string>
+    <string name="email">Enter Email Address</string>
+    <string name="phone">Enter Mobile Number</string>
+    <string name="save">SAVE</string>
+    <string name="load">LOAD</string>
+    <string name="enter_designation">Enter Designation</string>
+    <string name="name_editText">Name</string>
+    <string name="email_editText">Email</string>
+    <string name="mobile_editText">Mobile Number</string>
+</resources>

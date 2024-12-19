@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sample_image">sample\n</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WallPaper Retrofit</string>
+    <string name="wallpaper_image_view_large">Wallpaper Image</string>
+    <string name="WallPaperUser">Wallpaper User</string>
+    <string name="WallPaperViews">Wallpaper Views</string>
+    <string name="WallPaperDownloads">Wallpaper Downloads</string>
+    <string name="WallPaperCollections">Wallpaper Collections</string>
+    <string name="WallPaperLikes">Wallpaper Likes</string>
+    <string name="WallPaperComments">Wallpaper Comments</string>
+    <string name="home">HOME\n</string>
+    <string name="wallpaper_image">Wallpaper Image</string>
+</resources>

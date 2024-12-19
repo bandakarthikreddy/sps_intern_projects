@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@+id/carList_imageView"
+        android:layout_width="120sp"
+        android:layout_height="120sp"
+        android:contentDescription="@string/car_images"
+        android:src="@drawable/ic_launcher_foreground"
+        android:layout_marginTop="16sp"
+        android:layout_marginStart="16sp"
+        app:layout_constraintEnd_toStartOf="@+id/carList_textView"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/carList_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textview"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginStart="16sp"
+
+        app:layout_constraintBottom_toBottomOf="@id/carList_imageView"
+        app:layout_constraintStart_toEndOf="@+id/carList_imageView"
+        app:layout_constraintTop_toTopOf="@id/carList_imageView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

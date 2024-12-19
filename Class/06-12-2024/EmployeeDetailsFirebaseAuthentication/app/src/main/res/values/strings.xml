@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EmployeeDetailsFirebaseAuthentication</string>
+    <string name="enter_email_address_login">Enter Email Address</string>
+    <string name="enter_password_login">Enter Password</string>
+    <string name="signup_login">SIGNUP</string>
+    <string name="signin_login">SIGNIN</string>
+    <string name="enter_first_name_signup">Enter First Name</string>
+    <string name="enter_last_name_signup">Enter Last Name</string>
+    <string name="enter_mobile_number_signup">Enter Mobile Number</string>
+    <string name="enter_email_address_signup">Enter Email Address</string>
+    <string name="enter_password_signup">Enter Password</string>
+    <string name="enter_confirm_password_SignUp">Enter Confirm Password</string>
+    <string name="signup">SIGNUP</string>
+    <string name="signin">SIGNIN</string>
+</resources>

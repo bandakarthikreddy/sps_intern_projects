@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Journey Details</string>
+    <string name="enter_source_location">Enter Source Location</string>
+    <string name="enter_destination_location">Enter Destination Location</string>
+    <string name="date">DATE</string>
+    <string name="time">TIME</string>
+    <string name="submit">SUBMIT</string>
+    <string name="journey_details">Journey Details</string>
+    <string name="source">Source Location:</string>
+    <string name="source_location_display">Source Location Display</string>
+    <string name="destination">Destination:</string>
+    <string name="display_destination">Display Destination</string>
+    <string name="travelling_date">Travelling Date:</string>
+    <string name="travelling_date_display">Travelling Date Display</string>
+    <string name="travelling_time">Travelling Time:</string>
+    <string name="travelling_time_display">Travelling Time Display</string>
+    <string name="home">HOME</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+</resources>

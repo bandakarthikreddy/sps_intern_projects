@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLite Database</string>
+    <string name="name_editText">Enter Your Name</string>
+    <string name="email_editText">Enter your Email Address</string>
+    <string name="mobile_editText">Enter your Mobile Number</string>
+    <string name="delete_button">DELETE</string>
+    <string name="update_button">UPDATE</string>
+    <string name="load_button">LOAD</string>
+    <string name="save_button">SAVE</string>
+    <string name="enter_id">Enter ID</string>
+</resources>

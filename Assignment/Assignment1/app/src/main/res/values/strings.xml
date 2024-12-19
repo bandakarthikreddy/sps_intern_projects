@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="enter_name">Enter Full Name</string>
+    <string name="enter_phoneno">Enter Phone No</string>
+    <string name="enter_email">Enter Email Address</string>
+    <string name="enter_designation">Enter your Designation</string>
+    <string name="submit_button">SUBMIT</string>
+</resources>

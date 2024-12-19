@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom Alert Dialog</string>
+    <string name="login_homePage">LOGIN</string>
+    <string name="welcome_homepage">Welcome to Single Point Solutions</string>
+    <string name="signin_homepage">SIGNIN</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="signin">SIGNIN</string>
+    <string name="signup">SIGNUP</string>
+</resources>

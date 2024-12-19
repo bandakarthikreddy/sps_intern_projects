@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/r">
+
+    <EditText
+        android:id="@+id/name_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:textSize="14sp"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:hint="@string/name"
+        android:textColorHint="@color/black"
+        android:layout_marginTop="16sp"
+        android:layout_marginStart="8sp"
+        android:layout_marginEnd="16sp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+
+    <EditText
+        android:id="@+id/mobile_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:textSize="14sp"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:hint="@string/mobile"
+        android:textColorHint="@color/black"
+        android:layout_marginTop="16sp"
+        android:layout_marginStart="8sp"
+        android:layout_marginEnd="16sp"
+        app:layout_constraintTop_toBottomOf="@id/name_et"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="Autofill" />
+
+    <EditText
+        android:id="@+id/email_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:textSize="14sp"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:hint="@string/email"
+        android:textColorHint="@color/black"
+        android:layout_marginTop="16sp"
+        android:layout_marginStart="8sp"
+        android:layout_marginEnd="16sp"
+        app:layout_constraintTop_toBottomOf="@id/mobile_et"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="Autofill" />
+
+    <EditText
+        android:id="@+id/designation_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:textSize="14sp"
+        android:textColor="@color/black"
+        android:textStyle="normal"
+        android:hint="@string/designation"
+        android:textColorHint="@color/black"
+        android:layout_marginTop="16sp"
+        android:layout_marginStart="8sp"
+        android:layout_marginEnd="16sp"
+        app:layout_constraintTop_toBottomOf="@id/email_et"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="Autofill" />
+
+    <Button
+        android:id="@+id/submit_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/submit"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="14sp"
+        android:layout_marginTop="8sp"
+        android:layout_marginEnd="16sp"
+        app:layout_constraintTop_toBottomOf="@id/designation_et"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/name_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text = "name"
+        android:textSize="24sp"
+        android:textColor="@color/black"
+        android:textStyle="bold|italic"
+        android:layout_marginStart="16sp"
+        android:layout_marginTop="32sp"
+        app:layout_constraintTop_toBottomOf="@id/submit_button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/mobile_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text = "mobile"
+        android:textSize="16sp"
+        android:textStyle="normal"
+        android:textColor="@color/black"
+        android:layout_marginTop="8sp"
+        android:layout_marginStart="16sp"
+        app:layout_constraintTop_toBottomOf="@id/name_tv"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/email_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text = "email"
+        android:textSize="16sp"
+        android:textStyle="normal"
+        android:textColor="@color/black"
+        android:layout_marginTop="8sp"
+        android:layout_marginStart="16sp"
+        app:layout_constraintTop_toBottomOf="@id/mobile_tv"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/designation_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text = "designation"
+        android:textSize="16sp"
+        android:textStyle="normal"
+        android:textColor="@color/black"
+        android:layout_marginTop="8sp"
+        android:layout_marginStart="16sp"
+        app:layout_constraintTop_toBottomOf="@id/email_tv"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+</androidx.constraintlayout.widget.ConstraintLayout>

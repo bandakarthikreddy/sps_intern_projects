@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Class1</string>
+    <string name="change_text">Change Text</string>
+    <string name="image">Image</string>
+    <string name="button_color">Button Color</string>
+    <string name="change_text1">Change text from the Main Activity File</string>
+</resources>

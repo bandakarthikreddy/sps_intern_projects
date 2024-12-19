@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Profile Details</string>
+    <string name="profile_details">Profile Details</string>
+    <string name="first_name">First Name: </string>
+    <string name="last_name">Last Name: </string>
+    <string name="phone_number">Contact Number: </string>
+    <string name="email_address">Email Id: </string>
+    <string name="address">Address: </string>
+    <string name="designation">Designation: </string>
+    <string name="blood_group">Blood Group: </string>
+
+
+    <string name="enter_first_name">Enter your First Name</string>
+    <string name="enter_last_name">Enter your Last Name</string>
+    <string name="enter_phone_number">Contact Number</string>
+    <string name="enter_email_address">Enter your Email Id</string>
+    <string name="enter_address">Enter your Address</string>
+    <string name="enter_blood_group">Enter your Blood Group</string>
+    <string name="enter_designation">Enter your Designation </string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="call">Call A Driver</string>
+    <string name="dial">Dial A Driver</string>
+    <string name="browse">Browse A Site</string>
+</resources>

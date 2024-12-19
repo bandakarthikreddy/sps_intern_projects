@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Context Menu</string>
+    <string name="long_press_button">Long press on button for context menu</string>
+    <string name="long_press">LONG PRESS</string>
+    <string name="text_item">Text Item</string>
+    <string name="color_item">Color Item</string>
+    <string name="background_color">Background Color</string>
+</resources>

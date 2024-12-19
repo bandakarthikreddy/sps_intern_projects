@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment Passing Data</string>
+    <string name="name">Enter your Name</string>
+    <string name="mobile">Enter your Mobile Number</string>
+    <string name="email">Enter your Email</string>
+    <string name="designation">Enter your Designation</string>
+    <string name="submit">SUBMIT</string>
+    <string name="home">HOME</string>
+</resources>

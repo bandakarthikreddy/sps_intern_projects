@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "875399420248",
+    "firebase_url": "https://fir-fda0b-default-rtdb.firebaseio.com",
+    "project_id": "fir-fda0b",
+    "storage_bucket": "fir-fda0b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875399420248:android:8b665daab211b954d36d2d",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.datapassingjetpackfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchvPe7lETv5tsGT7jukEZuf92ad0oxoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875399420248:android:bc20936430e1c5e5d36d2d",
+        "android_client_info": {
+          "package_name": "com.singlepointsol.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchvPe7lETv5tsGT7jukEZuf92ad0oxoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

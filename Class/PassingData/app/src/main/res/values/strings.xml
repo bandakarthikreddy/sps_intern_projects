@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Passing Data</string>
+    <string name="enter_data">Enter Data</string>
+    <string name="send">SEND</string>
+    <string name="data_output">data_output</string>
+    <string name="home">HOME</string>
+</resources>

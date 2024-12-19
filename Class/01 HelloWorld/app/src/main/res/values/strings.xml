@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MintGreen</string>
+    <string name="mainHeading.txt">Mint green is popular across a lot of mobile applications.</string>
+    <string name="subHeading.txt">This color is great to provide a sober and yet a fresh visual appeal. The tranquility of this color reduces the cognitive load on our eyes. Thus, businesses prefer this color as a primary color, especially when they expect us to spend a lot of time on their apps.</string>
+    <string name="text">Single Point Solutions</string>
+    <string name="first_name">First Name</string>
+</resources>

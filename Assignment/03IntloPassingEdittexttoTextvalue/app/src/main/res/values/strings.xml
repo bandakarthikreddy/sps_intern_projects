@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">03 Intlo Passing Edit text to Text value</string>
+    <string name="name">Enter Name</string>
+    <string name="mobile">Enter Mobile</string>
+    <string name="email">Enter Email</string>
+    <string name="submit">SUBMIT</string>
+    <string name="designation">Enter Designation</string>
+</resources>
